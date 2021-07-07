@@ -3,12 +3,12 @@ entries:
   pact-broker:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-07-07T14:50:07.398244955-03:00"
+    created: "2021-07-07T15:19:17.048968746-03:00"
     description: A Helm chart for Kubernetes
-    digest: 8d0fa130204d0e6dd035f3357f26b7218cb3d90187c2618b615ffcc6a4eef49a
+    digest: 86aeb43dbdd2a2fab748f9076bbfd3076d3cb3024908966518f9a4481372aa67
     name: pact-broker
     type: application
     urls:
-    - pact-broker-0.1.0.tgz
+    - docs/pact-broker-0.1.0.tgz
     version: 0.1.0
-generated: "2021-07-07T14:50:07.397181583-03:00"
+generated: "2021-07-07T15:19:17.048302088-03:00"
