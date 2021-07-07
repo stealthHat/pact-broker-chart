@@ -9,6 +9,6 @@ entries:
     name: pact-broker
     type: application
     urls:
-    - https://stealthhat.github.io/pact-broker-chart/docs/pact-broker-0.1.0.tgz
+    - https://stealthhat.github.io/pact-broker-chart/pact-broker-0.1.0.tgz
     version: 0.1.0
 generated: "2021-07-07T16:58:09.025015125-03:00"
