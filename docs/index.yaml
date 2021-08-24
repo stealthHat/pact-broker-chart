@@ -3,12 +3,12 @@ entries:
   pact-broker:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-07-07T16:58:09.026605057-03:00"
+    created: "2021-08-24T09:53:42.15739886-03:00"
     description: A Helm chart for Kubernetes
-    digest: 86aeb43dbdd2a2fab748f9076bbfd3076d3cb3024908966518f9a4481372aa67
+    digest: 4f0f2380978716e203c949c011fd3ecd8bc4a1c9c182b3767a9ae1820064d0a7
     name: pact-broker
     type: application
     urls:
     - https://stealthhat.github.io/pact-broker-chart/pact-broker-0.2.0.tgz
     version: 0.2.0
-generated: "2021-07-07T16:58:09.025015125-03:00"
+generated: "2021-08-24T09:53:42.1558967-03:00"
